@@ -1,0 +1,72 @@
+.zero{
+    -fx-background-image: url('/img/0.png');
+}
+.zeroclick{
+    -fx-background-image: url('/img/0-1.png');
+}
+.one{
+    -fx-background-image: url('/img/1.png');
+}
+.oneclick{
+    -fx-background-image: url('/img/1-1.png');
+}
+.two{
+   -fx-background-image: url('/img/2.png');
+}
+.twoclick{
+    -fx-background-image: url('/img/2-1.png');
+}
+.three{
+    -fx-background-image: url('/img/3.png');
+}
+.threeclick{
+    -fx-background-image: url('/img/3-1.png');
+}
+.four{
+    -fx-background-image: url('/img/4.png');
+}
+.fourclick{
+    -fx-background-image: url('/img/4-1.png');
+}
+.five{
+    -fx-background-image: url('/img/5.png');
+}
+.fiveclick{
+    -fx-background-image: url('/img/5-1.png');
+}
+.six{
+    -fx-background-image: url('/img/6.png');
+}
+.sixclick{
+    -fx-background-image: url('/img/6-1.png');
+}
+.seven{
+    -fx-background-image: url('/img/7.png');
+}
+.sevenclick{
+    -fx-background-image: url('/img/7-1.png');
+}
+.eight{
+    -fx-background-image: url('/img/8.png');
+}
+.eightclick{
+    -fx-background-image: url('/img/8-1.png');
+}
+.nine{
+    -fx-background-image: url('/img/9.png');
+}
+.nineclick{
+    -fx-background-image: url('/img/9-1.png');
+}
+.x{
+    -fx-background-image: url('/img/x.png');
+}
+.xclick{
+    -fx-background-image: url('/img/x1.png');
+}
+.delete{
+    -fx-background-image: url('/img/s.png');
+}
+.deleteclick{
+    -fx-background-image: url('/img/s1.png');
+}

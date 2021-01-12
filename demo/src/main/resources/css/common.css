@@ -1,0 +1,6 @@
+.button0{
+    -fx-background-image: url('/img/0.png');
+}
+.button0change{
+    -fx-background-image: url('/img/0-1.png');
+}
